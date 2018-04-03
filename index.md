@@ -80,7 +80,7 @@ Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.c
 ![](images/m1-milestone.png)
 
 
-Milestone 1 consisted of five issues, and progress was managed via the [Fit Yonder GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
+Milestone 1 consisted of five issues, and progress was managed via the [Fit Yonder GitHub Project M1](https://github.com/orgs/Fit-Yonder/projects/3):
 
 ![](images/m1-project.png)
 
