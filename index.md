@@ -6,7 +6,7 @@
   * [Landing Page](#landing-page)
   * [Workouts Page](#workouts-page)
   * [Profile Page](#profile-page)
-  * [Login/Signup Page](#login/signup-page)
+  * [Login And Signup Page](#login-and-signup-page)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
@@ -52,7 +52,7 @@ The workouts page lists all the avaialable workouts that are on the site. There 
 
 This is the users profile where interests and achievments will be displayed.
 
-## Login/Signup Page
+## Login And Signup Page
 
 Here UH students are able to login to their accounts or signup.
 
