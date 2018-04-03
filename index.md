@@ -75,7 +75,7 @@ Mockups for the following four pages were implemented during M1:
 <img width="200px" src="images/directory.png"/>
 <img width="200px" src="images/filter.png"/>
 
-Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.com/bowfolios/bowfolios/milestone/1)::
+Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.com/orgs/Fit-Yonder/projects/3)::
 
 ![](images/m1-milestone.png)
 
@@ -96,12 +96,12 @@ The goal of Milestone 2 was to implement the data model: the underlying set of M
  
 Also in this milestone, we implemented a set of mocha tests for the data model classes. These tests make sure we can create, manipulate, and delete the data model documents successfully.  These tests are documented above.
 
-Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.com/bowfolios/bowfolios/milestone/2)::
+Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.com/orgs/Fit-Yonder/projects/4)::
 
 ![](images/m2-milestone.png)
 
 
-Milestone 2 consisted of two issues, and progress was managed via the [Fit Yonder GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+Milestone 2 consisted of two issues, and progress was managed via the [Fit Yonder GitHub Project M2](https://github.com/orgs/Fit-Yonder/projects/4):
 
 ![](images/m2-project.png)
 
@@ -115,30 +115,18 @@ This milestone started on Feb 2, 2017 and ended on Feb 10, 2017.
 
 The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
 
-Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/bowfolios/bowfolios/milestone/3)::
+Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/orgs/Fit-Yonder/projects/5)::
 
 ![](images/m3-milestone.png)
 
 
-Milestone 3 consisted of four issues, and progress was managed via the [Fit Yonder GitHub Project M3](https://github.com/bowfolios/bowfolios/projects/3):
+Milestone 3 consisted of four issues, and progress was managed via the [Fit Yonder GitHub Project M3](https://github.com/orgs/Fit-Yonder/projects/5):
 
 ![](images/m3-project.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/m3-branch-graph.png)
-
-# Walkthrough videos
-
-BowFolios is intended as a model of how an ICS 314 project could be organized and executed. Here are some videos to walk through various aspects of the system and development process:
-
-* [BowFolios: User Interface](https://www.youtube.com/watch?v=aZvxRQfQdkE)
-* [BowFolios: Development Process](https://www.youtube.com/watch?v=8pTgFtbcjTc)
-* [BowFolios: Application Structure](https://www.youtube.com/watch?v=_5g5CzZ0Toc)
-* [BowFolios: Authentication and Authorization](https://www.youtube.com/watch?v=AaXShN8cYNY)
-* [BowFolios: Initialization](https://www.youtube.com/watch?v=P3Kigb1gtVo)
-* [BowFolios: Unit Testing](https://www.youtube.com/watch?v=EexZfw1yMJs)
-* [BowFolios: Design Patterns](https://www.youtube.com/watch?v=yP-t44HBCPQ). Maybe watch [this](https://www.youtube.com/watch?v=Z2yjimK_MJU) first.
 
 
 
