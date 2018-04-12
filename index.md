@@ -76,7 +76,7 @@ Mockups for the following four pages were implemented during M1:
 <img width="200px" src="images/loginmockup.png"/>
 <img width="200px" src="images/mockupsignup.png"/>
 
-Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.com/orgs/Fit-Yonder/projects/3)::
+Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.com/Fit-Yonder/fit-yonder/projects/1)::
 
 ![](images/milestone1.png)
 
@@ -121,7 +121,7 @@ Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.c
 ![](images/m3-milestone.png)
 
 
-Milestone 3 consisted of four issues, and progress was managed via the [Fit Yonder GitHub Project M3](https://github.com/orgs/Fit-Yonder/projects/5):
+Milestone 3 consisted of four issues, and progress was managed via the [Fit Yonder GitHub Project M3](https://github.com/Fit-Yonder/fit-yonder/projects/4):
 
 ![](images/m3-project.png)
 
