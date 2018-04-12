@@ -73,7 +73,7 @@ Mockups for the following four pages were implemented during M1:
 <img width="200px" src="images/mockuplandingpage.png"/>
 <img width="200px" src="images/mockupprofile.png"/>
 <img width="200px" src="images/mockupworkouts.png"/>
-<img width="200px" src="images/mockuplogin.png"/>
+<img width="200px" src="images/loginmockup.png"/>
 
 Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.com/orgs/Fit-Yonder/projects/3)::
 
