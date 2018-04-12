@@ -81,7 +81,7 @@ Milestone 1 was implemented as [Fit Yonder GitHub Milestone M1](https://github.c
 ![](images/milestone1.png)
 
 
-Milestone 1 consisted of five issues, and progress was managed via the [Fit Yonder GitHub Project M1](https://github.com/orgs/Fit-Yonder/projects/3):
+Milestone 1 consisted of five issues, and progress was managed via the [Fit Yonder GitHub Project M1](https://github.com/Fit-Yonder/fit-yonder/projects/1):
 
 ![](images/m1-project.png)
 
@@ -97,7 +97,7 @@ The goal of Milestone 2 was to implement the data model: the underlying set of M
  
 Also in this milestone, we implemented a set of mocha tests for the data model classes. These tests make sure we can create, manipulate, and delete the data model documents successfully.  These tests are documented above.
 
-Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.com/orgs/Fit-Yonder/projects/4)::
+Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.com/Fit-Yonder/fit-yonder/projects/2)::
 
 ![](images/m2-milestone.png)
 
@@ -116,7 +116,7 @@ This milestone started on Feb 2, 2017 and ended on Feb 10, 2017.
 
 The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
 
-Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/orgs/Fit-Yonder/projects/5)::
+Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/Fit-Yonder/fit-yonder/projects/4)::
 
 ![](images/m3-milestone.png)
 
