@@ -16,7 +16,7 @@
 
 Fit Yonder is an application providing a platform for students and health and fitness professionals that allows them to post ideas for flexible and personalized fitness routines, things such as yoga etc. that can be done in one’s dorm room, or somewhere on campus.  When you come to the site, you are greeted by the following landing page:
 
-![](images/stock image shoe.jpg)
+![](images/FitYonderLogo.png)
 
 It can be difficult to fit a consistent fitness routine into an already packed college student schedule. Many people are intimidated by the idea of going to the gym to work-out. Also, the hours of the gym on campus sometimes don’t work out for a variety of schedules.
 
