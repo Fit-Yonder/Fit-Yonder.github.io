@@ -60,6 +60,25 @@ This is the users profile where interests and achievments will be displayed.
 
 Here UH students are able to login to their accounts or signup.
 
+# Installation
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [clown our repository](https://github.com/Fit-Yonder/fit-yonder).
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+
 # Development History
 
 The development process for Fit Yonder conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
