@@ -11,6 +11,12 @@
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
   * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
+* [Community Feedback](#community-feedback)
+  * [Person 1](#person-1)
+  * [Person 2](#person-2)
+  * [Person 3](#person-3)
+  * [Person 4](#person-4)
+  * [Person 5](#person-5)
   
   
 # Visit us
@@ -151,6 +157,29 @@ Milestone 3 consisted of four issues, and progress was managed via the [Fit Yond
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/m3-branch-graph.png)
+
+
+# Community Feedback
+
+## Person 1
+
+lorem ipsum
+
+## Person 2
+
+lorem ipsum
+
+## Person 3
+
+lorem ipsum
+
+## Person 4
+
+lorem ipsum
+
+## Person 5
+
+lorem ipsum
 
 
 
