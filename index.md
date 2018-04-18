@@ -63,7 +63,7 @@ Here UH students are able to login to their accounts or signup.
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [clown our repository](https://github.com/Fit-Yonder/fit-yonder).
+Second, [clone our repository](https://github.com/Fit-Yonder/fit-yonder).
   
 Third, cd into the app/ directory and install libraries with:
 
