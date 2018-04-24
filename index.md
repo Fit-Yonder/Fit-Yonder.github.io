@@ -133,7 +133,12 @@ Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.c
 
 Milestone 2 consisted of two issues, and progress was managed via the [Fit Yonder GitHub Project M2](https://github.com/orgs/Fit-Yonder/projects/4):
 
-![](images/m2-project.png)
+![](images/m2-landing.png)
+![](images/m2-login.png)
+![](images/m2-addevent.png)
+![](images/m2-addworkout.png)
+![](images/m2-feed.png)
+![](images/m2-admin.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
@@ -141,9 +146,9 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 3: Connect UI to data model
 
-This milestone started on Feb 2, 2017 and ended on Feb 10, 2017.
+lorem ipsumThis milestone started on April 24, 2018 and ended on May 4, 2018.
 
-The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
+lorem ipsumThe goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
 
 Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/Fit-Yonder/fit-yonder/projects/4)::
 
