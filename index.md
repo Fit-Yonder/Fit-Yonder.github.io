@@ -20,7 +20,7 @@
   
   
 # Visit us
-http://fityonder.meteorapp.com/
+<a href="http://fityonder.meteorapp.com/">http://fityonder.meteorapp.com/</a>
 
 # About Fit Yonder
 
@@ -133,12 +133,12 @@ Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.c
 
 Milestone 2 consisted of two issues, and progress was managed via the [Fit Yonder GitHub Project M2](https://github.com/orgs/Fit-Yonder/projects/4):
 
-![](images/m2-landing.png)
-![](images/m2-login.png)
-![](images/m2-addevent.png)
-![](images/m2-addworkout.png)
-![](images/m2-feed.png)
-![](images/m2-admin.png)
+<img width="200px" src="images/m2-landing.png"/>
+<img width="200px" src="images/login.png"/>
+<img width="200px" src="images/addevent.png"/>
+<img width="200px" src="images/addworkout.png"/>
+<img width="200px" src="images/feed.png"/>
+<img width="200px" src="images/admin.png"/>
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
