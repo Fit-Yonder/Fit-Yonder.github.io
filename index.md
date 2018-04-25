@@ -1,36 +1,20 @@
-# Table of contents
 
-* [About Fit Yonder](#about-fityonder)
-* [Installation](#installation)
-* [Application design](#application-design)
-  * [Landing Page](#landing-page)
-  * [Workouts Page](#workouts-page)
-  * [Profile Page](#profile-page)
-  * [Login And Signup Page](#login-and-signup-page)
-* [Development history](#development-history)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Data model development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
-* [Community Feedback](#community-feedback)
-  * [Person 1](#person-1)
-  * [Person 2](#person-2)
-  * [Person 3](#person-3)
-  * [Person 4](#person-4)
-  * [Person 5](#person-5)
-  
-  
 # Visit us
 <a href="http://fityonder.meteorapp.com/">http://fityonder.meteorapp.com/</a>
+
+![](images/FitYonderLogo.png)
 
 # About Fit Yonder
 
 Fit Yonder is an application providing a platform for students and health and fitness professionals that allows them to post ideas for flexible and personalized fitness routines, things such as yoga etc. that can be done in one’s dorm room, or somewhere on campus.  When you come to the site, you are greeted by the following landing page:
 
-![](images/FitYonderLogo.png)
+![](images/mockuplandingpage.png)
 
 It can be difficult to fit a consistent fitness routine into an already packed college student schedule. Many people are intimidated by the idea of going to the gym to work-out. Also, the hours of the gym on campus sometimes don’t work out for a variety of schedules.
 
 Students are able to post their fitness goals and/or other constraints which can then be matched against the fitness routines available in on Fit Yonder. Fit Yonder can also enable students to log their time, frequency of workouts, and other measures of progress. Fit Yonder's workout page lists which routines are popular based provide user-generated reviews and completions.
+
+# User Guide
 
 Anyone with a UH account can login to Fit Yonder by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
  
