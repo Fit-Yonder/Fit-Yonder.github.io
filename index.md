@@ -16,7 +16,17 @@ Students are able to post their fitness goals and/or other constraints which can
 
 # User Guide
 
-Anyone with a UH account can login to Fit Yonder by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
+>FitYonder is currently under developement. If you would like to test out our web app feel free to sign in with one of our test accounts.
+
+Admin:
+username: admin@foo.com
+password: changeme
+
+User:
+username: john@foo.com
+password: changeme
+
+Anyone with a UH account can login to Fit Yonder by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password: (pending implementation)
  
 ![](images/bowfolios-cas.png)
  
