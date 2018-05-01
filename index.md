@@ -16,6 +16,15 @@ Students are able to post their fitness goals and/or other constraints which can
 
 # User Guide
 
+Upon visiting the web app, you will be greeted with a description of Fit Yonder:
+
+![](images/landingp.png)
+![](images/landing2.png)
+
+Upon clicking the register button you will be directed to the sign-up page, which will ask for your name, e-mail, and your selected password:
+
+![](images/signup.png)
+
 >FitYonder is currently under developement. If you would like to test out our web app feel free to sign in with one of our test accounts.
 
 Admin:
@@ -25,22 +34,31 @@ password: changeme
 User:
 username: john@foo.com
 password: changeme
-
-Anyone with a UH account can login to Fit Yonder by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password: (pending implementation)
- 
-![](images/bowfolios-cas.png)
- 
-Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
-
-![](images/profile.png)
   
 After creating a profile, you will be listed on the members page:
 
 ![](images/directory.png)
 
-Fityonder also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest(yoga, running, gym, etc):
+Fityonder also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest category (yoga, running, gym, etc):
 
 ![](images/filter.png)
+
+Once logged in, you will have the opportunity to see the community's created workouts and events. Each workout includes the workout title, the categories it might belong to, a brief description, and a descriptive image. You can add a workout to your personal list of workouts by clicking the "Join workout!" button. The workouts you add will be listed on your profile:
+
+![](images/feed.png)
+
+Fit Yonder is all about community collaboration. Users can add their own workouts and events for others to see and join:
+
+![](images/add.png)
+
+Adding a workout/event is easy. Users need only add the basic workout information. To add a descriptive image a URL address is needed. To access an image address, simply right-lick on your image and select "Copy image address", then paste the address on the appropriate field. 
+
+![](images/form.png)
+![](images/address.png)
+
+The profile section of Fit Yonder features user profile pictures, brief biography, and a list of workouts:
+
+![](images/prof.png)
 
 # Application Design
 
