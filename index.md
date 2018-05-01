@@ -54,7 +54,7 @@ Fit Yonder is all about community collaboration. Users can add their own workout
 Adding a workout/event is easy. Users need only add the basic workout information. To add a descriptive image a URL address is needed. To access an image address, simply right-lick on your image and select "Copy image address", then paste the address on the appropriate field. 
 
 ![](images/form.png)
-![](images/address.png)
+![](images/address2.png)
 
 The profile section of Fit Yonder features user profile pictures, brief biography, and a list of workouts:
 
