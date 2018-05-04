@@ -180,7 +180,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Creighton
 
-Fit Yonder is a great helper for random convenient workouts anywhere with a nice user friendly looking website.
+"Fit Yonder is a great helper for random convenient workouts anywhere with a nice user friendly looking website."
 
 ## Tyler Chong
 
