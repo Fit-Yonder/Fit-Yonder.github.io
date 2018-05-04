@@ -182,9 +182,9 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Fit Yonder is a great helper for random convenient workouts anywhere with a nice user friendly looking website.
 
-## Person 2
+## Tyler Chong
 
-lorem ipsum
+ "Computer Science majors work out?"
 
 ## Person 3
 
