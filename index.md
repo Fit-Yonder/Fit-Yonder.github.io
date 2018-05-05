@@ -162,6 +162,9 @@ This milestone started on April 24, 2018 and ended on May 4, 2018.
 
 The goal of Milestone 3 was to connect finish up the website and deployment. We tied together the the Meteor account system with our profile database. This allowed us to store individual's data and display them on a per account basis. To complete the profile page we also added a way for users to update and change their profile data. We also updated our feed to seperate events from workouts.
 
+![](images/updateprofile.png)
+![](images/editprofile.png)
+
 Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/Fit-Yonder/fit-yonder/projects/4)::
 
 ![](images/m3-milestone.png)
