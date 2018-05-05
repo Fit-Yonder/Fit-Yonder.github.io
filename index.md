@@ -186,17 +186,17 @@ Each issue was implemented in its own branch, and merged into master when comple
 
  "Computer Science majors work out?"
 
-## Person 3
+## Christine Le
 
-lorem ipsum
+"As someone who doesn't do traditional work outs or maintain a workout schedule, I could see myself using this webapp. I like the idea of users creating their own workouts. It encourages non-traditional forms of workout like yoga or cycling, which you wouldn't find in a traditional gym."
 
-## Person 4
+## Chris Smith
 
-lorem ipsum
+"I have been a swimmer since I can remember, meaning the only way I know how to workout is in the water. An application like Fit-Yonder helps me figure out land workouts that I would otherwise not explore." 
 
-## Person 5
+## Jason Jin
 
-lorem ipsum
+"The website looks inviting, I like the colors and the Facebook-feel to it. I would appreciate if it could be more personalized to track other things, such as weight loss journey, muscle gain process, etc."
 
 
 
