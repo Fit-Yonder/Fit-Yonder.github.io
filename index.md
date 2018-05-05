@@ -158,9 +158,9 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 3: Connect UI to data model
 
-lorem ipsumThis milestone started on April 24, 2018 and ended on May 4, 2018.
+This milestone started on April 24, 2018 and ended on May 4, 2018.
 
-lorem ipsumThe goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to simplify implementation of form processing.
+The goal of Milestone 3 was to connect finish up the website and deployment. We tied together the the Meteor account system with our profile database. This allowed us to store individual's data and display them on a per account basis. To complete the profile page we also added a way for users to update and change their profile data. We also updated our feed to seperate events from workouts.
 
 Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.com/Fit-Yonder/fit-yonder/projects/4)::
 
