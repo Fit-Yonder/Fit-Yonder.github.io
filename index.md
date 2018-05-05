@@ -178,7 +178,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 # Community Feedback
 
-## Creighton
+## Creighton Gorai
 
 "Fit Yonder is a great helper for random convenient workouts anywhere with a nice user friendly looking website."
 
