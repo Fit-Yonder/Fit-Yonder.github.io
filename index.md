@@ -167,7 +167,7 @@ Milestone 3 was implemented as [Fit Yonder GitHub Milestone M3](https://github.c
 ![](images/m3-milestone.png)
 
 
-Milestone 3 consisted of four issues, and progress was managed via the [Fit Yonder GitHub Project M3](https://github.com/Fit-Yonder/fit-yonder/projects/4):
+Milestone 3 consisted of 20 issues, and progress was managed via the [Fit Yonder GitHub Project M3](https://github.com/Fit-Yonder/fit-yonder/projects/4):
 
 ![](images/m3-project.png)
 
