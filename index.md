@@ -143,7 +143,7 @@ Milestone 2 was implemented as [Fit Yonder GitHub Milestone M2](https://github.c
 ![](images/m2-milestone.png)
 
 
-Milestone 2 consisted of two issues, and progress was managed via the [Fit Yonder GitHub Project M2](https://github.com/orgs/Fit-Yonder/projects/4):
+Milestone 2 consisted of 17 issues, and progress was managed via the [Fit Yonder GitHub Project M2](https://github.com/orgs/Fit-Yonder/projects/4):
 
 <img width="200px" src="images/m2-landing.png"/>
 <img width="200px" src="images/m2-login.png"/>
