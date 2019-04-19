@@ -9,3 +9,5 @@ password: changeme
 User:
 username: john@foo.com
 password: changeme
+
+To see implementation code, please see https://github.com/Fit-Yonder/fit-yonder
